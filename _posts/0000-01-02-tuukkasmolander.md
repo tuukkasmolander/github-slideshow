@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A man, a plan, a canal. Panama.
 Use the left arrow to go back!
